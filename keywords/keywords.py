@@ -14,5 +14,6 @@ print(keyword.kwlist)
 
 # soft keywords keywords
 print(keyword.softkwlist)
+# ['_', 'case', 'match', 'type']
 
 
